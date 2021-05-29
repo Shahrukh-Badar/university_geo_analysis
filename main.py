@@ -13,8 +13,9 @@ df_grp = df.groupby(['state-province']).count().reset_index()
 df_grp = df_grp.rename(columns={'name':'count'})
 df_grp = df_grp.sort_values(by='count', ascending=False)
 df_grp.to_csv('intermediate_res.csv',sep='|',index=False)
-# fig = df_grp.plot.bar( x='state-province',y='name').get_figure()
-# fig.savefig('test.jpg')
+
+fig = df_grp.plot.bar( x='state-province',y='count').get_figure()
+fig.savefig('test.jpg')
 dff = pd.merge(df, df_grp, on='state-province').sort_values(by='count', ascending=False)
 dff[['state-province','name','count']].to_csv('intermediate_res_1.csv',sep='|',index=False)
 
