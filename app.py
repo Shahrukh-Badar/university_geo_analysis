@@ -38,7 +38,7 @@ def barchart():
 @app.route('/universities_group_by_region')
 def universities_group_by_region():
     df = pd.read_csv('intermediate_res_2.csv', sep='|')
-    df['name'] = df['name'].apply(lambda x: x.replace(',','<br>'))
+    # df['name'] = df['name'].apply(lambda x: x.replace(',','<br>'))
     return render_template('render_accordion.html', title='Universities count by region',
                            result=list(df.loc[:1].to_records(index=False)))
 

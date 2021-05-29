@@ -9,13 +9,16 @@
             <h2 class="accordion-header" id="headingThree">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                      <strong>{{ data[0] }}</strong>  
+                    <strong>{{ data[0] }}</strong> &nbsp&nbsp&nbsp&nbsp<span class="badge bg-light text-dark">{{"Total number of universities are "}}{{data[2]}}</span>
+
                 </button>
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                  data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                    {{ data[1]  | safe }}
+                    {% for university in data[1].split(',') %}
+                    <span class="badge bg-light text-dark">{{university}}</span>
+                    {% endfor %}
                 </div>
             </div>
         </div>
@@ -37,7 +40,6 @@
 <!--        </div>-->
 <!--    </div>-->
 <!--</div>-->
-
 
 {% endfor %}
 {% endblock %}
