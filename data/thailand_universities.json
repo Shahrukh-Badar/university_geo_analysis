@@ -1,1 +1,1586 @@
-[{"country": "Thailand", "domains": ["ait.ac.th"], "web_pages": ["https://www.ait.ac.th/"], "alpha_two_code": "TH", "name": "Asian Institute of Technology", "state-province": "Pathum Thani"}, {"country": "Thailand", "domains": ["aru.ac.th"], "web_pages": ["https://www.aru.ac.th/"], "alpha_two_code": "TH", "name": "Phranakhon Si Ayutthaya Rajabhat University", "state-province": "Phra Nakhon Si Ayutthaya"}, {"country": "Thailand", "domains": ["asianust.ac.th"], "web_pages": ["http://www.asianust.ac.th/"], "alpha_two_code": "TH", "name": "Asian University of Science and Technology", "state-province": "Chon Buri"}, {"country": "Thailand", "domains": ["au.edu"], "web_pages": ["https://www.au.edu/"], "alpha_two_code": "TH", "name": "Assumption University of Thailand", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["bu.ac.th"], "web_pages": ["https://www.bu.ac.th/"], "alpha_two_code": "TH", "name": "Bangkok University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["buu.ac.th"], "web_pages": ["https://www.buu.ac.th/"], "alpha_two_code": "TH", "name": "Burapha University", "state-province": "Chon Buri"}, {"country": "Thailand", "domains": ["chiangmai.ac.th"], "web_pages": ["https://www.chiangmai.ac.th/"], "alpha_two_code": "TH", "name": "Chiang Mai University", "state-province": "Chiang Mai"}, {"country": "Thailand", "domains": ["chiangraicampus.rmutl.ac.th"], "web_pages": ["http://chiangraicampus.rmutl.ac.th/"], "alpha_two_code": "TH", "name": "Rajamangala University of Technology, Lanna Chiang Rai", "state-province": "Chiang Rai"}, {"country": "Thailand", "domains": ["chula.ac.th"], "web_pages": ["https://www.chula.ac.th/"], "alpha_two_code": "TH", "name": "Chulalongkorn University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["cmru.ac.th"], "web_pages": ["https://www.cmru.ac.th/"], "alpha_two_code": "TH", "name": "Chiang Mai Rajabhat University", "state-province": "Chiang Mai"}, {"country": "Thailand", "domains": ["cmvc.ac.th"], "web_pages": ["http://www.cmvc.ac.th/"], "alpha_two_code": "TH", "name": "Chiang Mai Vocational College", "state-province": "Chiang Mai"}, {"country": "Thailand", "domains": ["cpu.ac.th"], "web_pages": ["http://www.cpu.ac.th/"], "alpha_two_code": "TH", "name": "Chaopraya University", "state-province": "Nakhon Sawan"}, {"country": "Thailand", "domains": ["dpu.ac.th"], "web_pages": ["https://www.dpu.ac.th/"], "alpha_two_code": "TH", "name": "Dhurakijpundit University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["dusit.ac.th"], "web_pages": ["http://www.dusit.ac.th/"], "alpha_two_code": "TH", "name": "Suan Dusit Rajabhat University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["eau.ac.th"], "web_pages": ["https://www.eau.ac.th/"], "alpha_two_code": "TH", "name": "Eastern Asia University", "state-province": "Pathum Thani"}, {"country": "Thailand", "domains": ["efau.org"], "web_pages": ["http://www.asianu.ac.th/"], "alpha_two_code": "TH", "name": "Asian University", "state-province": "Chon Buri"}, {"country": "Thailand", "domains": ["hcu.ac.th"], "web_pages": ["https://www.hcu.ac.th/"], "alpha_two_code": "TH", "name": "Huachiew Chalermprakiet University", "state-province": "Samut Prakarn"}, {"country": "Thailand", "domains": ["hu.ac.th"], "web_pages": ["http://www.hu.ac.th/"], "alpha_two_code": "TH", "name": "Hatyai University", "state-province": "Songkhla"}, {"country": "Thailand", "domains": ["ibc.ac.th"], "web_pages": ["https://www.ibc.ac.th/"], "alpha_two_code": "TH", "name": "International Buddhist College", "state-province": "SongKhla"}, {"country": "Thailand", "domains": ["kbu.ac.th"], "web_pages": ["https://www.kbu.ac.th/"], "alpha_two_code": "TH", "name": "Kasem Bundit University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["kku.ac.th"], "web_pages": ["https://www.kku.ac.th/"], "alpha_two_code": "TH", "name": "Khon Kaen University", "state-province": "Khon Kaen"}, {"country": "Thailand", "domains": ["kmitl.ac.th"], "web_pages": ["http://www.kmitl.ac.th/"], "alpha_two_code": "TH", "name": "King Mongkut's Institute of Technology Ladkrabang", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["kmutnb.ac.th"], "web_pages": ["https://www.kmutnb.ac.th/"], "alpha_two_code": "TH", "name": "King Mongkut's University of Technology North Bangkok", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["kmutt.ac.th"], "web_pages": ["https://www.kmutt.ac.th/"], "alpha_two_code": "TH", "name": "King Mongkut's University of Technology Thonburi", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["krirk.ac.th"], "web_pages": ["https://www.krirk.ac.th/"], "alpha_two_code": "TH", "name": "Krirk University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["ku.ac.th"], "web_pages": ["https://www.ku.ac.th/"], "alpha_two_code": "TH", "name": "Kasetsart University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["lampangvc.ac.th"], "web_pages": ["http://www.lampangvc.ac.th/"], "alpha_two_code": "TH", "name": "Lampang Vocational College", "state-province": "Lampang"}, {"country": "Thailand", "domains": ["lcat.ac.th"], "web_pages": ["http://www.lcat.ac.th/"], "alpha_two_code": "TH", "name": "Lamphun College of Agriculture and Technology", "state-province": "Lamphun"}, {"country": "Thailand", "domains": ["lcct.ac.th"], "web_pages": ["http://www.lcct.ac.th/"], "alpha_two_code": "TH", "name": "Lampang College of Commerce and Technology", "state-province": "Lampang"}, {"country": "Thailand", "domains": ["lpru.ac.th"], "web_pages": ["https://www.lpru.ac.th/"], "alpha_two_code": "TH", "name": "Lampang Rajabhat University", "state-province": "Lampang"}, {"country": "Thailand", "domains": ["mahidol.ac.th"], "web_pages": ["https://www.mahidol.ac.th/"], "alpha_two_code": "TH", "name": "Mahidol University", "state-province": "Nakhon Pathom"}, {"country": "Thailand", "domains": ["mbu.ac.th"], "web_pages": ["http://www.mbu.ac.th/"], "alpha_two_code": "TH", "name": "Mahamakut Buddhist University", "state-province": "Nakhon Pathom"}, {"country": "Thailand", "domains": ["mcu.ac.th"], "web_pages": ["https://www.mcu.ac.th/"], "alpha_two_code": "TH", "name": "Mahachulalongkorn Buddhist University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["mfu.ac.th"], "web_pages": ["https://www.mfu.ac.th/"], "alpha_two_code": "TH", "name": "Mae Fah Luang University", "state-province": "Chiang Rai"}, {"country": "Thailand", "domains": ["mju.ac.th"], "web_pages": ["https://www.mju.ac.th/"], "alpha_two_code": "TH", "name": "Maejo University", "state-province": "Chiang Mai"}, {"country": "Thailand", "domains": ["msu.ac.th"], "web_pages": ["http://www.msu.ac.th/"], "alpha_two_code": "TH", "name": "Mahasarakham University", "state-province": "Mahasarakham"}, {"country": "Thailand", "domains": ["muic.mahidol.ac.th"], "web_pages": ["https://www.muic.mahidol.ac.th/"], "alpha_two_code": "TH", "name": "Mahidol University International College", "state-province": "Nakhon Pathom"}, {"country": "Thailand", "domains": ["mut.ac.th"], "web_pages": ["http://www.mut.ac.th/"], "alpha_two_code": "TH", "name": "Mahanakorn University of Technology", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["nan.rmutl.ac.th"], "web_pages": ["https://www.nan.rmutl.ac.th/"], "alpha_two_code": "TH", "name": "Rajamangala University of Technology, Lanna Nan", "state-province": "Nan"}, {"country": "Thailand", "domains": ["nida.ac.th"], "web_pages": ["http://www.nida.ac.th/"], "alpha_two_code": "TH", "name": "National Institute of Development Administration", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["nivadhana.ac.th"], "web_pages": ["http://www.nivadhana.ac.th/"], "alpha_two_code": "TH", "name": "Nivadhana University", "state-province": "Lamphun"}, {"country": "Thailand", "domains": ["nu.ac.th"], "web_pages": ["https://www.nu.ac.th/"], "alpha_two_code": "TH", "name": "Naresuan University", "state-province": "Phitsanulok"}, {"country": "Thailand", "domains": ["payap.ac.th"], "web_pages": ["https://www.payap.ac.th/"], "alpha_two_code": "TH", "name": "Payap University Chaiang Mai", "state-province": "Chiang Mai"}, {"country": "Thailand", "domains": ["psu.ac.th"], "web_pages": ["https://www.psu.ac.th/"], "alpha_two_code": "TH", "name": "Prince of Songkla University", "state-province": "Songkhla"}, {"country": "Thailand", "domains": ["ptu.ac.th"], "web_pages": ["https://www.ptu.ac.th/"], "alpha_two_code": "TH", "name": "Pathumthani University", "state-province": "Pathum Thani"}, {"country": "Thailand", "domains": ["rmutp.ac.th"], "web_pages": ["https://www.rmutp.ac.th/"], "alpha_two_code": "TH", "name": "Rajamangala University of Technology, Phra Nakhon", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["rsu.ac.th"], "web_pages": ["https://www2.rsu.ac.th/"], "alpha_two_code": "TH", "name": "Rangsit University", "state-province": "Pathum Thani"}, {"country": "Thailand", "domains": ["ru.ac.th"], "web_pages": ["https://www.ru.ac.th/"], "alpha_two_code": "TH", "name": "Ramkhamhaeng University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["sau.ac.th"], "web_pages": ["https://www.sau.ac.th/"], "alpha_two_code": "TH", "name": "South-East Asia University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["shinawatra.ac.th"], "web_pages": ["http://www.shinawatra.ac.th/"], "alpha_two_code": "TH", "name": "Shinawatra University", "state-province": "Pathum Thani"}, {"country": "Thailand", "domains": ["siam.edu"], "web_pages": ["https://www.siam.edu/"], "alpha_two_code": "TH", "name": "Siam University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["spu.ac.th"], "web_pages": ["https://www.spu.ac.th/"], "alpha_two_code": "TH", "name": "Sripatum University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["stamford.edu"], "web_pages": ["https://www.stamford.edu/"], "alpha_two_code": "TH", "name": "Stamford International University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["stjohn.ac.th"], "web_pages": ["https://www.stjohn.ac.th/"], "alpha_two_code": "TH", "name": "St. John's University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["stou.ac.th"], "web_pages": ["https://www.stou.ac.th/"], "alpha_two_code": "TH", "name": "Sukhothai Thammathirat Open University", "state-province": "Nonthaburi"}, {"country": "Thailand", "domains": ["su.ac.th"], "web_pages": ["https://www.su.ac.th/"], "alpha_two_code": "TH", "name": "Silpakorn University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["sut.ac.th"], "web_pages": ["http://www.sut.ac.th/"], "alpha_two_code": "TH", "name": "Suranaree University of Technology", "state-province": "Nakhon Ratchasima"}, {"country": "Thailand", "domains": ["swu.ac.th"], "web_pages": ["https://www.swu.ac.th/"], "alpha_two_code": "TH", "name": "Srinakharinwirot University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["tsu.ac.th"], "web_pages": ["https://www.tsu.ac.th/"], "alpha_two_code": "TH", "name": "Thaksin University", "state-province": "Songkhla"}, {"country": "Thailand", "domains": ["tu.ac.th"], "web_pages": ["https://www.tu.ac.th/"], "alpha_two_code": "TH", "name": "Thammasat University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["ubu.ac.th"], "web_pages": ["https://www.ubu.ac.th/"], "alpha_two_code": "TH", "name": "Ubonratchathani University", "state-province": "Ubonratchathani"}, {"country": "Thailand", "domains": ["utcc.ac.th"], "web_pages": ["https://www.utcc.ac.th/"], "alpha_two_code": "TH", "name": "University of the Thai Chamber of Commerce", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["vu.ac.th"], "web_pages": ["https://www.vu.ac.th/"], "alpha_two_code": "TH", "name": "Vongchavalitkul University", "state-province": "Nakhon Ratchasima"}, {"country": "Thailand", "domains": ["webster.ac.th"], "web_pages": ["https://www.webster.ac.th/"], "alpha_two_code": "TH", "name": "Webster University, Thailand", "state-province": "Petchaburi"}, {"country": "Thailand", "domains": ["wu.ac.th"], "web_pages": ["https://www.wu.ac.th/"], "alpha_two_code": "TH", "name": "Walailak University", "state-province": "Nakhon Si Thammarat"}, {"country": "Thailand", "domains": ["nation.ac.th"], "web_pages": ["http://www.nation.ac.th/"], "alpha_two_code": "TH", "name": "Nation University", "state-province": "Lampang"}, {"country": "Thailand", "domains": ["ait.ac.th"], "web_pages": ["https://www.ait.ac.th/"], "alpha_two_code": "TH", "name": "Asian Institute of Technology", "state-province": "Pathum Thani"}, {"country": "Thailand", "domains": ["aru.ac.th"], "web_pages": ["https://www.aru.ac.th/"], "alpha_two_code": "TH", "name": "Phranakhon Si Ayutthaya Rajabhat University", "state-province": "Phra Nakhon Si Ayutthaya"}, {"country": "Thailand", "domains": ["asianust.ac.th"], "web_pages": ["http://www.asianust.ac.th/"], "alpha_two_code": "TH", "name": "Asian University of Science and Technology", "state-province": "Chon Buri"}, {"country": "Thailand", "domains": ["au.edu"], "web_pages": ["https://www.au.edu/"], "alpha_two_code": "TH", "name": "Assumption University of Thailand", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["bu.ac.th"], "web_pages": ["https://www.bu.ac.th/"], "alpha_two_code": "TH", "name": "Bangkok University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["buu.ac.th"], "web_pages": ["https://www.buu.ac.th/"], "alpha_two_code": "TH", "name": "Burapha University", "state-province": "Chon Buri"}, {"country": "Thailand", "domains": ["chiangmai.ac.th"], "web_pages": ["https://www.chiangmai.ac.th/"], "alpha_two_code": "TH", "name": "Chiang Mai University", "state-province": "Chiang Mai"}, {"country": "Thailand", "domains": ["chiangraicampus.rmutl.ac.th"], "web_pages": ["http://chiangraicampus.rmutl.ac.th/"], "alpha_two_code": "TH", "name": "Rajamangala University of Technology, Lanna Chiang Rai", "state-province": "Chiang Rai"}, {"country": "Thailand", "domains": ["chula.ac.th"], "web_pages": ["https://www.chula.ac.th/"], "alpha_two_code": "TH", "name": "Chulalongkorn University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["cmru.ac.th"], "web_pages": ["https://www.cmru.ac.th/"], "alpha_two_code": "TH", "name": "Chiang Mai Rajabhat University", "state-province": "Chiang Mai"}, {"country": "Thailand", "domains": ["cmvc.ac.th"], "web_pages": ["http://www.cmvc.ac.th/"], "alpha_two_code": "TH", "name": "Chiang Mai Vocational College", "state-province": "Chiang Mai"}, {"country": "Thailand", "domains": ["cpu.ac.th"], "web_pages": ["http://www.cpu.ac.th/"], "alpha_two_code": "TH", "name": "Chaopraya University", "state-province": "Nakhon Sawan"}, {"country": "Thailand", "domains": ["dpu.ac.th"], "web_pages": ["https://www.dpu.ac.th/"], "alpha_two_code": "TH", "name": "Dhurakijpundit University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["dusit.ac.th"], "web_pages": ["http://www.dusit.ac.th/"], "alpha_two_code": "TH", "name": "Suan Dusit Rajabhat University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["eau.ac.th"], "web_pages": ["https://www.eau.ac.th/"], "alpha_two_code": "TH", "name": "Eastern Asia University", "state-province": "Pathum Thani"}, {"country": "Thailand", "domains": ["efau.org"], "web_pages": ["http://www.asianu.ac.th/"], "alpha_two_code": "TH", "name": "Asian University", "state-province": "Chon Buri"}, {"country": "Thailand", "domains": ["hcu.ac.th"], "web_pages": ["https://www.hcu.ac.th/"], "alpha_two_code": "TH", "name": "Huachiew Chalermprakiet University", "state-province": "Samut Prakarn"}, {"country": "Thailand", "domains": ["hu.ac.th"], "web_pages": ["http://www.hu.ac.th/"], "alpha_two_code": "TH", "name": "Hatyai University", "state-province": "Songkhla"}, {"country": "Thailand", "domains": ["ibc.ac.th"], "web_pages": ["https://www.ibc.ac.th/"], "alpha_two_code": "TH", "name": "International Buddhist College", "state-province": "SongKhla"}, {"country": "Thailand", "domains": ["kbu.ac.th"], "web_pages": ["https://www.kbu.ac.th/"], "alpha_two_code": "TH", "name": "Kasem Bundit University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["kku.ac.th"], "web_pages": ["https://www.kku.ac.th/"], "alpha_two_code": "TH", "name": "Khon Kaen University", "state-province": "Khon Kaen"}, {"country": "Thailand", "domains": ["kmitl.ac.th"], "web_pages": ["http://www.kmitl.ac.th/"], "alpha_two_code": "TH", "name": "King Mongkut's Institute of Technology Ladkrabang", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["kmutnb.ac.th"], "web_pages": ["https://www.kmutnb.ac.th/"], "alpha_two_code": "TH", "name": "King Mongkut's University of Technology North Bangkok", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["kmutt.ac.th"], "web_pages": ["https://www.kmutt.ac.th/"], "alpha_two_code": "TH", "name": "King Mongkut's University of Technology Thonburi", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["krirk.ac.th"], "web_pages": ["https://www.krirk.ac.th/"], "alpha_two_code": "TH", "name": "Krirk University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["ku.ac.th"], "web_pages": ["https://www.ku.ac.th/"], "alpha_two_code": "TH", "name": "Kasetsart University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["lampangvc.ac.th"], "web_pages": ["http://www.lampangvc.ac.th/"], "alpha_two_code": "TH", "name": "Lampang Vocational College", "state-province": "Lampang"}, {"country": "Thailand", "domains": ["lcat.ac.th"], "web_pages": ["http://www.lcat.ac.th/"], "alpha_two_code": "TH", "name": "Lamphun College of Agriculture and Technology", "state-province": "Lamphun"}, {"country": "Thailand", "domains": ["lcct.ac.th"], "web_pages": ["http://www.lcct.ac.th/"], "alpha_two_code": "TH", "name": "Lampang College of Commerce and Technology", "state-province": "Lampang"}, {"country": "Thailand", "domains": ["lpru.ac.th"], "web_pages": ["https://www.lpru.ac.th/"], "alpha_two_code": "TH", "name": "Lampang Rajabhat University", "state-province": "Lampang"}, {"country": "Thailand", "domains": ["mahidol.ac.th"], "web_pages": ["https://www.mahidol.ac.th/"], "alpha_two_code": "TH", "name": "Mahidol University", "state-province": "Nakhon Pathom"}, {"country": "Thailand", "domains": ["mbu.ac.th"], "web_pages": ["http://www.mbu.ac.th/"], "alpha_two_code": "TH", "name": "Mahamakut Buddhist University", "state-province": "Nakhon Pathom"}, {"country": "Thailand", "domains": ["mcu.ac.th"], "web_pages": ["https://www.mcu.ac.th/"], "alpha_two_code": "TH", "name": "Mahachulalongkorn Buddhist University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["mfu.ac.th"], "web_pages": ["https://www.mfu.ac.th/"], "alpha_two_code": "TH", "name": "Mae Fah Luang University", "state-province": "Chiang Rai"}, {"country": "Thailand", "domains": ["mju.ac.th"], "web_pages": ["https://www.mju.ac.th/"], "alpha_two_code": "TH", "name": "Maejo University", "state-province": "Chiang Mai"}, {"country": "Thailand", "domains": ["msu.ac.th"], "web_pages": ["http://www.msu.ac.th/"], "alpha_two_code": "TH", "name": "Mahasarakham University", "state-province": "Mahasarakham"}, {"country": "Thailand", "domains": ["muic.mahidol.ac.th"], "web_pages": ["https://www.muic.mahidol.ac.th/"], "alpha_two_code": "TH", "name": "Mahidol University International College", "state-province": "Nakhon Pathom"}, {"country": "Thailand", "domains": ["mut.ac.th"], "web_pages": ["http://www.mut.ac.th/"], "alpha_two_code": "TH", "name": "Mahanakorn University of Technology", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["nan.rmutl.ac.th"], "web_pages": ["https://www.nan.rmutl.ac.th/"], "alpha_two_code": "TH", "name": "Rajamangala University of Technology, Lanna Nan", "state-province": "Nan"}, {"country": "Thailand", "domains": ["nida.ac.th"], "web_pages": ["http://www.nida.ac.th/"], "alpha_two_code": "TH", "name": "National Institute of Development Administration", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["nivadhana.ac.th"], "web_pages": ["http://www.nivadhana.ac.th/"], "alpha_two_code": "TH", "name": "Nivadhana University", "state-province": "Lamphun"}, {"country": "Thailand", "domains": ["nu.ac.th"], "web_pages": ["https://www.nu.ac.th/"], "alpha_two_code": "TH", "name": "Naresuan University", "state-province": "Phitsanulok"}, {"country": "Thailand", "domains": ["payap.ac.th"], "web_pages": ["https://www.payap.ac.th/"], "alpha_two_code": "TH", "name": "Payap University Chaiang Mai", "state-province": "Chiang Mai"}, {"country": "Thailand", "domains": ["psu.ac.th"], "web_pages": ["https://www.psu.ac.th/"], "alpha_two_code": "TH", "name": "Prince of Songkla University", "state-province": "Songkhla"}, {"country": "Thailand", "domains": ["ptu.ac.th"], "web_pages": ["https://www.ptu.ac.th/"], "alpha_two_code": "TH", "name": "Pathumthani University", "state-province": "Pathum Thani"}, {"country": "Thailand", "domains": ["rmutp.ac.th"], "web_pages": ["https://www.rmutp.ac.th/"], "alpha_two_code": "TH", "name": "Rajamangala University of Technology, Phra Nakhon", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["rsu.ac.th"], "web_pages": ["https://www2.rsu.ac.th/"], "alpha_two_code": "TH", "name": "Rangsit University", "state-province": "Pathum Thani"}, {"country": "Thailand", "domains": ["ru.ac.th"], "web_pages": ["https://www.ru.ac.th/"], "alpha_two_code": "TH", "name": "Ramkhamhaeng University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["sau.ac.th"], "web_pages": ["https://www.sau.ac.th/"], "alpha_two_code": "TH", "name": "South-East Asia University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["shinawatra.ac.th"], "web_pages": ["http://www.shinawatra.ac.th/"], "alpha_two_code": "TH", "name": "Shinawatra University", "state-province": "Pathum Thani"}, {"country": "Thailand", "domains": ["siam.edu"], "web_pages": ["https://www.siam.edu/"], "alpha_two_code": "TH", "name": "Siam University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["spu.ac.th"], "web_pages": ["https://www.spu.ac.th/"], "alpha_two_code": "TH", "name": "Sripatum University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["stamford.edu"], "web_pages": ["https://www.stamford.edu/"], "alpha_two_code": "TH", "name": "Stamford International University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["stjohn.ac.th"], "web_pages": ["https://www.stjohn.ac.th/"], "alpha_two_code": "TH", "name": "St. John's University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["stou.ac.th"], "web_pages": ["https://www.stou.ac.th/"], "alpha_two_code": "TH", "name": "Sukhothai Thammathirat Open University", "state-province": "Nonthaburi"}, {"country": "Thailand", "domains": ["su.ac.th"], "web_pages": ["https://www.su.ac.th/"], "alpha_two_code": "TH", "name": "Silpakorn University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["sut.ac.th"], "web_pages": ["http://www.sut.ac.th/"], "alpha_two_code": "TH", "name": "Suranaree University of Technology", "state-province": "Nakhon Ratchasima"}, {"country": "Thailand", "domains": ["swu.ac.th"], "web_pages": ["https://www.swu.ac.th/"], "alpha_two_code": "TH", "name": "Srinakharinwirot University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["tsu.ac.th"], "web_pages": ["https://www.tsu.ac.th/"], "alpha_two_code": "TH", "name": "Thaksin University", "state-province": "Songkhla"}, {"country": "Thailand", "domains": ["tu.ac.th"], "web_pages": ["https://www.tu.ac.th/"], "alpha_two_code": "TH", "name": "Thammasat University", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["ubu.ac.th"], "web_pages": ["https://www.ubu.ac.th/"], "alpha_two_code": "TH", "name": "Ubonratchathani University", "state-province": "Ubonratchathani"}, {"country": "Thailand", "domains": ["utcc.ac.th"], "web_pages": ["https://www.utcc.ac.th/"], "alpha_two_code": "TH", "name": "University of the Thai Chamber of Commerce", "state-province": "Bangkok"}, {"country": "Thailand", "domains": ["vu.ac.th"], "web_pages": ["https://www.vu.ac.th/"], "alpha_two_code": "TH", "name": "Vongchavalitkul University", "state-province": "Nakhon Ratchasima"}, {"country": "Thailand", "domains": ["webster.ac.th"], "web_pages": ["https://www.webster.ac.th/"], "alpha_two_code": "TH", "name": "Webster University, Thailand", "state-province": "Petchaburi"}, {"country": "Thailand", "domains": ["wu.ac.th"], "web_pages": ["https://www.wu.ac.th/"], "alpha_two_code": "TH", "name": "Walailak University", "state-province": "Nakhon Si Thammarat"}, {"country": "Thailand", "domains": ["nation.ac.th"], "web_pages": ["http://www.nation.ac.th/"], "alpha_two_code": "TH", "name": "Nation University", "state-province": "Lampang"}]
+[
+	{
+		"country": "Thailand",
+		"domains": [
+			"ait.ac.th"
+		],
+		"web_pages": [
+			"https://www.ait.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Asian Institute of Technology",
+		"state-province": "Pathum Thani"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"aru.ac.th"
+		],
+		"web_pages": [
+			"https://www.aru.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Phranakhon Si Ayutthaya Rajabhat University",
+		"state-province": "Phra Nakhon Si Ayutthaya"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"asianust.ac.th"
+		],
+		"web_pages": [
+			"http://www.asianust.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Asian University of Science and Technology",
+		"state-province": "Chon Buri"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"au.edu"
+		],
+		"web_pages": [
+			"https://www.au.edu/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Assumption University of Thailand",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"bu.ac.th"
+		],
+		"web_pages": [
+			"https://www.bu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Bangkok University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"buu.ac.th"
+		],
+		"web_pages": [
+			"https://www.buu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Burapha University",
+		"state-province": "Chon Buri"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"chiangmai.ac.th"
+		],
+		"web_pages": [
+			"https://www.chiangmai.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Chiang Mai University",
+		"state-province": "Chiang Mai"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"chiangraicampus.rmutl.ac.th"
+		],
+		"web_pages": [
+			"http://chiangraicampus.rmutl.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Rajamangala University of Technology, Lanna Chiang Rai",
+		"state-province": "Chiang Rai"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"chula.ac.th"
+		],
+		"web_pages": [
+			"https://www.chula.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Chulalongkorn University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"cmru.ac.th"
+		],
+		"web_pages": [
+			"https://www.cmru.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Chiang Mai Rajabhat University",
+		"state-province": "Chiang Mai"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"cmvc.ac.th"
+		],
+		"web_pages": [
+			"http://www.cmvc.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Chiang Mai Vocational College",
+		"state-province": "Chiang Mai"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"cpu.ac.th"
+		],
+		"web_pages": [
+			"http://www.cpu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Chaopraya University",
+		"state-province": "Nakhon Sawan"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"dpu.ac.th"
+		],
+		"web_pages": [
+			"https://www.dpu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Dhurakijpundit University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"dusit.ac.th"
+		],
+		"web_pages": [
+			"http://www.dusit.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Suan Dusit Rajabhat University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"eau.ac.th"
+		],
+		"web_pages": [
+			"https://www.eau.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Eastern Asia University",
+		"state-province": "Pathum Thani"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"efau.org"
+		],
+		"web_pages": [
+			"http://www.asianu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Asian University",
+		"state-province": "Chon Buri"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"hcu.ac.th"
+		],
+		"web_pages": [
+			"https://www.hcu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Huachiew Chalermprakiet University",
+		"state-province": "Samut Prakarn"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"hu.ac.th"
+		],
+		"web_pages": [
+			"http://www.hu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Hatyai University",
+		"state-province": "Songkhla"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"ibc.ac.th"
+		],
+		"web_pages": [
+			"https://www.ibc.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "International Buddhist College",
+		"state-province": "SongKhla"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"kbu.ac.th"
+		],
+		"web_pages": [
+			"https://www.kbu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Kasem Bundit University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"kku.ac.th"
+		],
+		"web_pages": [
+			"https://www.kku.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Khon Kaen University",
+		"state-province": "Khon Kaen"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"kmitl.ac.th"
+		],
+		"web_pages": [
+			"http://www.kmitl.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "King Mongkut's Institute of Technology Ladkrabang",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"kmutnb.ac.th"
+		],
+		"web_pages": [
+			"https://www.kmutnb.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "King Mongkut's University of Technology North Bangkok",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"kmutt.ac.th"
+		],
+		"web_pages": [
+			"https://www.kmutt.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "King Mongkut's University of Technology Thonburi",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"krirk.ac.th"
+		],
+		"web_pages": [
+			"https://www.krirk.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Krirk University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"ku.ac.th"
+		],
+		"web_pages": [
+			"https://www.ku.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Kasetsart University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"lampangvc.ac.th"
+		],
+		"web_pages": [
+			"http://www.lampangvc.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Lampang Vocational College",
+		"state-province": "Lampang"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"lcat.ac.th"
+		],
+		"web_pages": [
+			"http://www.lcat.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Lamphun College of Agriculture and Technology",
+		"state-province": "Lamphun"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"lcct.ac.th"
+		],
+		"web_pages": [
+			"http://www.lcct.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Lampang College of Commerce and Technology",
+		"state-province": "Lampang"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"lpru.ac.th"
+		],
+		"web_pages": [
+			"https://www.lpru.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Lampang Rajabhat University",
+		"state-province": "Lampang"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"mahidol.ac.th"
+		],
+		"web_pages": [
+			"https://www.mahidol.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Mahidol University",
+		"state-province": "Nakhon Pathom"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"mbu.ac.th"
+		],
+		"web_pages": [
+			"http://www.mbu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Mahamakut Buddhist University",
+		"state-province": "Nakhon Pathom"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"mcu.ac.th"
+		],
+		"web_pages": [
+			"https://www.mcu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Mahachulalongkorn Buddhist University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"mfu.ac.th"
+		],
+		"web_pages": [
+			"https://www.mfu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Mae Fah Luang University",
+		"state-province": "Chiang Rai"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"mju.ac.th"
+		],
+		"web_pages": [
+			"https://www.mju.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Maejo University",
+		"state-province": "Chiang Mai"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"msu.ac.th"
+		],
+		"web_pages": [
+			"http://www.msu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Mahasarakham University",
+		"state-province": "Mahasarakham"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"muic.mahidol.ac.th"
+		],
+		"web_pages": [
+			"https://www.muic.mahidol.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Mahidol University International College",
+		"state-province": "Nakhon Pathom"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"mut.ac.th"
+		],
+		"web_pages": [
+			"http://www.mut.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Mahanakorn University of Technology",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"nan.rmutl.ac.th"
+		],
+		"web_pages": [
+			"https://www.nan.rmutl.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Rajamangala University of Technology, Lanna Nan",
+		"state-province": "Nan"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"nida.ac.th"
+		],
+		"web_pages": [
+			"http://www.nida.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "National Institute of Development Administration",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"nivadhana.ac.th"
+		],
+		"web_pages": [
+			"http://www.nivadhana.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Nivadhana University",
+		"state-province": "Lamphun"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"nu.ac.th"
+		],
+		"web_pages": [
+			"https://www.nu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Naresuan University",
+		"state-province": "Phitsanulok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"payap.ac.th"
+		],
+		"web_pages": [
+			"https://www.payap.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Payap University Chaiang Mai",
+		"state-province": "Chiang Mai"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"psu.ac.th"
+		],
+		"web_pages": [
+			"https://www.psu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Prince of Songkla University",
+		"state-province": "Songkhla"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"ptu.ac.th"
+		],
+		"web_pages": [
+			"https://www.ptu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Pathumthani University",
+		"state-province": "Pathum Thani"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"rmutp.ac.th"
+		],
+		"web_pages": [
+			"https://www.rmutp.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Rajamangala University of Technology, Phra Nakhon",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"rsu.ac.th"
+		],
+		"web_pages": [
+			"https://www2.rsu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Rangsit University",
+		"state-province": "Pathum Thani"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"ru.ac.th"
+		],
+		"web_pages": [
+			"https://www.ru.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Ramkhamhaeng University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"sau.ac.th"
+		],
+		"web_pages": [
+			"https://www.sau.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "South-East Asia University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"shinawatra.ac.th"
+		],
+		"web_pages": [
+			"http://www.shinawatra.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Shinawatra University",
+		"state-province": "Pathum Thani"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"siam.edu"
+		],
+		"web_pages": [
+			"https://www.siam.edu/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Siam University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"spu.ac.th"
+		],
+		"web_pages": [
+			"https://www.spu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Sripatum University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"stamford.edu"
+		],
+		"web_pages": [
+			"https://www.stamford.edu/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Stamford International University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"stjohn.ac.th"
+		],
+		"web_pages": [
+			"https://www.stjohn.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "St. John's University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"stou.ac.th"
+		],
+		"web_pages": [
+			"https://www.stou.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Sukhothai Thammathirat Open University",
+		"state-province": "Nonthaburi"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"su.ac.th"
+		],
+		"web_pages": [
+			"https://www.su.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Silpakorn University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"sut.ac.th"
+		],
+		"web_pages": [
+			"http://www.sut.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Suranaree University of Technology",
+		"state-province": "Nakhon Ratchasima"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"swu.ac.th"
+		],
+		"web_pages": [
+			"https://www.swu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Srinakharinwirot University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"tsu.ac.th"
+		],
+		"web_pages": [
+			"https://www.tsu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Thaksin University",
+		"state-province": "Songkhla"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"tu.ac.th"
+		],
+		"web_pages": [
+			"https://www.tu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Thammasat University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"ubu.ac.th"
+		],
+		"web_pages": [
+			"https://www.ubu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Ubonratchathani University",
+		"state-province": "Ubonratchathani"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"utcc.ac.th"
+		],
+		"web_pages": [
+			"https://www.utcc.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "University of the Thai Chamber of Commerce",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"vu.ac.th"
+		],
+		"web_pages": [
+			"https://www.vu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Vongchavalitkul University",
+		"state-province": "Nakhon Ratchasima"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"webster.ac.th"
+		],
+		"web_pages": [
+			"https://www.webster.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Webster University, Thailand",
+		"state-province": "Petchaburi"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"wu.ac.th"
+		],
+		"web_pages": [
+			"https://www.wu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Walailak University",
+		"state-province": "Nakhon Si Thammarat"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"nation.ac.th"
+		],
+		"web_pages": [
+			"http://www.nation.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Nation University",
+		"state-province": "Lampang"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"ait.ac.th"
+		],
+		"web_pages": [
+			"https://www.ait.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Asian Institute of Technology",
+		"state-province": "Pathum Thani"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"aru.ac.th"
+		],
+		"web_pages": [
+			"https://www.aru.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Phranakhon Si Ayutthaya Rajabhat University",
+		"state-province": "Phra Nakhon Si Ayutthaya"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"asianust.ac.th"
+		],
+		"web_pages": [
+			"http://www.asianust.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Asian University of Science and Technology",
+		"state-province": "Chon Buri"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"au.edu"
+		],
+		"web_pages": [
+			"https://www.au.edu/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Assumption University of Thailand",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"bu.ac.th"
+		],
+		"web_pages": [
+			"https://www.bu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Bangkok University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"buu.ac.th"
+		],
+		"web_pages": [
+			"https://www.buu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Burapha University",
+		"state-province": "Chon Buri"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"chiangmai.ac.th"
+		],
+		"web_pages": [
+			"https://www.chiangmai.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Chiang Mai University",
+		"state-province": "Chiang Mai"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"chiangraicampus.rmutl.ac.th"
+		],
+		"web_pages": [
+			"http://chiangraicampus.rmutl.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Rajamangala University of Technology, Lanna Chiang Rai",
+		"state-province": "Chiang Rai"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"chula.ac.th"
+		],
+		"web_pages": [
+			"https://www.chula.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Chulalongkorn University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"cmru.ac.th"
+		],
+		"web_pages": [
+			"https://www.cmru.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Chiang Mai Rajabhat University",
+		"state-province": "Chiang Mai"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"cmvc.ac.th"
+		],
+		"web_pages": [
+			"http://www.cmvc.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Chiang Mai Vocational College",
+		"state-province": "Chiang Mai"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"cpu.ac.th"
+		],
+		"web_pages": [
+			"http://www.cpu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Chaopraya University",
+		"state-province": "Nakhon Sawan"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"dpu.ac.th"
+		],
+		"web_pages": [
+			"https://www.dpu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Dhurakijpundit University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"dusit.ac.th"
+		],
+		"web_pages": [
+			"http://www.dusit.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Suan Dusit Rajabhat University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"eau.ac.th"
+		],
+		"web_pages": [
+			"https://www.eau.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Eastern Asia University",
+		"state-province": "Pathum Thani"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"efau.org"
+		],
+		"web_pages": [
+			"http://www.asianu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Asian University",
+		"state-province": "Chon Buri"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"hcu.ac.th"
+		],
+		"web_pages": [
+			"https://www.hcu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Huachiew Chalermprakiet University",
+		"state-province": "Samut Prakarn"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"hu.ac.th"
+		],
+		"web_pages": [
+			"http://www.hu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Hatyai University",
+		"state-province": "Songkhla"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"ibc.ac.th"
+		],
+		"web_pages": [
+			"https://www.ibc.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "International Buddhist College",
+		"state-province": "SongKhla"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"kbu.ac.th"
+		],
+		"web_pages": [
+			"https://www.kbu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Kasem Bundit University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"kku.ac.th"
+		],
+		"web_pages": [
+			"https://www.kku.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Khon Kaen University",
+		"state-province": "Khon Kaen"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"kmitl.ac.th"
+		],
+		"web_pages": [
+			"http://www.kmitl.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "King Mongkut's Institute of Technology Ladkrabang",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"kmutnb.ac.th"
+		],
+		"web_pages": [
+			"https://www.kmutnb.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "King Mongkut's University of Technology North Bangkok",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"kmutt.ac.th"
+		],
+		"web_pages": [
+			"https://www.kmutt.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "King Mongkut's University of Technology Thonburi",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"krirk.ac.th"
+		],
+		"web_pages": [
+			"https://www.krirk.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Krirk University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"ku.ac.th"
+		],
+		"web_pages": [
+			"https://www.ku.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Kasetsart University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"lampangvc.ac.th"
+		],
+		"web_pages": [
+			"http://www.lampangvc.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Lampang Vocational College",
+		"state-province": "Lampang"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"lcat.ac.th"
+		],
+		"web_pages": [
+			"http://www.lcat.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Lamphun College of Agriculture and Technology",
+		"state-province": "Lamphun"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"lcct.ac.th"
+		],
+		"web_pages": [
+			"http://www.lcct.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Lampang College of Commerce and Technology",
+		"state-province": "Lampang"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"lpru.ac.th"
+		],
+		"web_pages": [
+			"https://www.lpru.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Lampang Rajabhat University",
+		"state-province": "Lampang"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"mahidol.ac.th"
+		],
+		"web_pages": [
+			"https://www.mahidol.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Mahidol University",
+		"state-province": "Nakhon Pathom"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"mbu.ac.th"
+		],
+		"web_pages": [
+			"http://www.mbu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Mahamakut Buddhist University",
+		"state-province": "Nakhon Pathom"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"mcu.ac.th"
+		],
+		"web_pages": [
+			"https://www.mcu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Mahachulalongkorn Buddhist University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"mfu.ac.th"
+		],
+		"web_pages": [
+			"https://www.mfu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Mae Fah Luang University",
+		"state-province": "Chiang Rai"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"mju.ac.th"
+		],
+		"web_pages": [
+			"https://www.mju.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Maejo University",
+		"state-province": "Chiang Mai"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"msu.ac.th"
+		],
+		"web_pages": [
+			"http://www.msu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Mahasarakham University",
+		"state-province": "Mahasarakham"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"muic.mahidol.ac.th"
+		],
+		"web_pages": [
+			"https://www.muic.mahidol.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Mahidol University International College",
+		"state-province": "Nakhon Pathom"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"mut.ac.th"
+		],
+		"web_pages": [
+			"http://www.mut.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Mahanakorn University of Technology",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"nan.rmutl.ac.th"
+		],
+		"web_pages": [
+			"https://www.nan.rmutl.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Rajamangala University of Technology, Lanna Nan",
+		"state-province": "Nan"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"nida.ac.th"
+		],
+		"web_pages": [
+			"http://www.nida.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "National Institute of Development Administration",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"nivadhana.ac.th"
+		],
+		"web_pages": [
+			"http://www.nivadhana.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Nivadhana University",
+		"state-province": "Lamphun"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"nu.ac.th"
+		],
+		"web_pages": [
+			"https://www.nu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Naresuan University",
+		"state-province": "Phitsanulok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"payap.ac.th"
+		],
+		"web_pages": [
+			"https://www.payap.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Payap University Chaiang Mai",
+		"state-province": "Chiang Mai"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"psu.ac.th"
+		],
+		"web_pages": [
+			"https://www.psu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Prince of Songkla University",
+		"state-province": "Songkhla"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"ptu.ac.th"
+		],
+		"web_pages": [
+			"https://www.ptu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Pathumthani University",
+		"state-province": "Pathum Thani"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"rmutp.ac.th"
+		],
+		"web_pages": [
+			"https://www.rmutp.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Rajamangala University of Technology, Phra Nakhon",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"rsu.ac.th"
+		],
+		"web_pages": [
+			"https://www2.rsu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Rangsit University",
+		"state-province": "Pathum Thani"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"ru.ac.th"
+		],
+		"web_pages": [
+			"https://www.ru.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Ramkhamhaeng University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"sau.ac.th"
+		],
+		"web_pages": [
+			"https://www.sau.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "South-East Asia University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"shinawatra.ac.th"
+		],
+		"web_pages": [
+			"http://www.shinawatra.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Shinawatra University",
+		"state-province": "Pathum Thani"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"siam.edu"
+		],
+		"web_pages": [
+			"https://www.siam.edu/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Siam University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"spu.ac.th"
+		],
+		"web_pages": [
+			"https://www.spu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Sripatum University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"stamford.edu"
+		],
+		"web_pages": [
+			"https://www.stamford.edu/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Stamford International University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"stjohn.ac.th"
+		],
+		"web_pages": [
+			"https://www.stjohn.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "St. John's University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"stou.ac.th"
+		],
+		"web_pages": [
+			"https://www.stou.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Sukhothai Thammathirat Open University",
+		"state-province": "Nonthaburi"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"su.ac.th"
+		],
+		"web_pages": [
+			"https://www.su.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Silpakorn University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"sut.ac.th"
+		],
+		"web_pages": [
+			"http://www.sut.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Suranaree University of Technology",
+		"state-province": "Nakhon Ratchasima"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"swu.ac.th"
+		],
+		"web_pages": [
+			"https://www.swu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Srinakharinwirot University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"tsu.ac.th"
+		],
+		"web_pages": [
+			"https://www.tsu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Thaksin University",
+		"state-province": "Songkhla"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"tu.ac.th"
+		],
+		"web_pages": [
+			"https://www.tu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Thammasat University",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"ubu.ac.th"
+		],
+		"web_pages": [
+			"https://www.ubu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Ubonratchathani University",
+		"state-province": "Ubonratchathani"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"utcc.ac.th"
+		],
+		"web_pages": [
+			"https://www.utcc.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "University of the Thai Chamber of Commerce",
+		"state-province": "Bangkok"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"vu.ac.th"
+		],
+		"web_pages": [
+			"https://www.vu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Vongchavalitkul University",
+		"state-province": "Nakhon Ratchasima"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"webster.ac.th"
+		],
+		"web_pages": [
+			"https://www.webster.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Webster University, Thailand",
+		"state-province": "Petchaburi"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"wu.ac.th"
+		],
+		"web_pages": [
+			"https://www.wu.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Walailak University",
+		"state-province": "Nakhon Si Thammarat"
+	},
+	{
+		"country": "Thailand",
+		"domains": [
+			"nation.ac.th"
+		],
+		"web_pages": [
+			"http://www.nation.ac.th/"
+		],
+		"alpha_two_code": "TH",
+		"name": "Nation University",
+		"state-province": "Lampang"
+	}
+]
