@@ -1,13 +1,10 @@
-FROM python:3.9.4-buster
+FROM python:3.8-slim-buster
 
-COPY requirements.txt /
+WORKDIR /app
 
-RUN pip install -r requirements.txt
+COPY requirements.txt requirements.txt
+RUN pip3 install -r requirements.txt
 
-COPY . /
+COPY . .
 
-COPY entrypoint.sh /entrypoint.sh
-
-RUN chmod +x /entrypoint.sh
-
-ENTRYPOINT ["/entrypoint.sh"]
+CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0"]
