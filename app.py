@@ -20,7 +20,7 @@ def main():
 @app.route('/universities_by_region')
 def universities_by_region():
     obj = UniversityAnalysis()
-    df = obj.get_intermediate_result() # pd.read_csv('intermediate_res_1.csv', sep='|')
+    df = obj.get_intermediate_result()
     return render_template('render_dataframe.html', title='Universities count by region', tables=[
         df.to_html(classes=["table", "table-striped"], index=False, justify='left').replace("<thead>",
                                                                                             "<thead class='thead-dark'>")],
@@ -37,7 +37,7 @@ def barchart():
 @app.route('/university_count_by_region')
 def university_count_by_region():
     obj = UniversityAnalysis()
-    df = obj.get_uni_count_by_region() # pd.read_csv('intermediate_res.csv', sep='|')
+    df = obj.get_uni_count_by_region()
     return render_template('render_dataframe.html', title='Universities count by region', tables=[
         df.to_html(classes=["table", "table-striped"], index=False, justify='left').replace("<thead>",
                                                                                             "<thead class='thead-dark'>")],
